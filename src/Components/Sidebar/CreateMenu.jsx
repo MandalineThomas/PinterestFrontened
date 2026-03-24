@@ -9,7 +9,7 @@ export default function CreateMenu({ onClose, onCreateBoard }) {
                 
                 <h1 className="text-xl font-bold mb-3 mt-4 ml-4">Create</h1>
 
-                <NavLink to="/createpin" className="block px-4 py-2 hover:bg-gray-100" onClick={onClose}>
+                <NavLink to="/createpin" className="block px-4 py-2 hover:bg-gray-100" onClick={onClose}> 
                  Pin
                  <p className="text-sm text-gray-500 mt-1">
                     Post your photos or videos and add links, stickers, effects and more
@@ -19,7 +19,7 @@ export default function CreateMenu({ onClose, onCreateBoard }) {
                 <button type="button" className="block w-full text-left px-4 py-2 hover:bg-gray-100" onClick={() => { onClose(); onCreateBoard();}}> 
                  Board
                  <p className="text-sm text-gray-500 mt-1">
-                    Organize a collection of your favorite Pins by creating a board
+                    Organize a collection of your favorite Pins by creating a board 
                  </p>
                 </button>
             </div>

@@ -10,7 +10,7 @@ import { AdjustmentsHorizontalIcon } from "@heroicons/react/24/outline";
 export default function Home() {
     const [isCreateOpen, setIsCreateOpen] = useState(false); //creates a boolean that tracks if the menu is open
     
-    const tab = "pb-3 font-semibold text-gray-600";
+    const tab = "pb-3 font-semibold";
     const active = "text-black border-b-1 border-black";
 
     return (
