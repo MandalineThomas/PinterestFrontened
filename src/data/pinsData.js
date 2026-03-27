@@ -19,6 +19,7 @@ import venice from "../assets/veniceItaly.jpg";
 import yoga from "../assets/yogaNearWater.jpg";
 import evilElena from "../assets/EvilElena.png";
 
+export const boards = ["Recipes", "Travel", "Wellness/Lifestyle", "Art"];
 
 const pinsData = [
     {
