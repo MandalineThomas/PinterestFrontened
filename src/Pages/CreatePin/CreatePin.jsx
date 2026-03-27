@@ -50,6 +50,7 @@ export default function CreatePin() {
                             <option>Recipes</option>
                             <option>Travel</option>
                             <option>Wellness/Lifestyle</option>
+                            <option>Art</option>
                         </select>
                     </div>
                 </div>

@@ -41,23 +41,23 @@ const pinsData = [
         id: 3,
         title: "3 Pillars of Wellness",
         description: "Discover the three essential pillars that support a healthy lifestyle.",
-        link: "",
+        link: "https://therapeuticselfcare.com/the-three-pillars-of-wellness/",
         board: "Wellness/Lifestyle",
         image: threepillars
     },
     {
         id: 4,
-        title: "Egypt",
-        description: "Explore the ancient wonders of Egypt, from the pyramids to the Sphinx.",
-        link: "",
+        title: "Qena, Egypt",
+        description: "Hypostyle Hall of the Temple of Hathor at Dendera, near Quena, Egypt. The temple was built during the Ptolemaic period and is dedicated to the goddess Hathor.",
+        link: "https://egypttoursgroup.com/dendera-temple-hathor/",
         board: "Travel",
         image: egypt
     },
     {
         id: 5,
-        title: "tomato basil pasta",
+        title: "Tomato Basil Pasta",
         description: "A classic Italian dish with fresh tomatoes and aromatic basil.",
-        link: "",
+        link: "https://theclevermeal.com/tomato-basil-pasta/",
         board: "Recipes",
         image: pasta
     },
@@ -65,15 +65,15 @@ const pinsData = [
         id: 6,
         title: "Eat Well, Feel Well",
         description: "Discover the connection between nutrition and overall well-being with our comprehensive guide to healthy eating.",
-        link: "",
+        link: "https://www.eatingwell.com/healthy-reset-11891615",
         board: "Wellness/Lifestyle",
         image: eatwell
     },
     {
         id: 7,
         title: "Vieste, Italy",
-        description: "Experience the charm of Vieste, a picturesque coastal town in Italy known for its stunning beaches and historic architecture.",
-        link: "",
+        description: "Experience the charm of Vieste, a coastal town in Italy known for its stunning beaches and historic architecture.",
+        link: "https://www.beautifulpuglia.com/vieste/",
         board: "Travel",
         image: vieste
     },
@@ -81,15 +81,15 @@ const pinsData = [
         id: 8,
         title: "Chicken and Potato",
         description: "A hearty and delicious one-pan meal that's perfect for a quick dinner.",
-        link: "",
+        link: "https://www.allrecipes.com/chicken-and-potato-recipes-8421156",
         board: "Recipes",
         image: chkAndPotato
     },
     {
         id: 9,
-        title: "Healthy Food",
+        title: "Benefits of Eating Healthy",
         description: "Discover the benefits of eating healthy and how it can improve your overall well-being.",
-        link: "",
+        link: "https://www.cdc.gov/nutrition/php/resources/healthy-eating-benefits-for-adults.html",
         board: "Wellness/Lifestyle",
         image: healthyFood
     },
@@ -97,7 +97,7 @@ const pinsData = [
         id: 10,
         title: "Spiral Pasta",
         description: "A delightful twist on a classic dish, featuring spiraled pasta with a rich, flavorful sauce.",
-        link: "",
+        link: "https://wholesomepatisserie.com/spiral-pasta-recipes/",
         board: "Recipes",
         image: spiralPasta
     },
@@ -105,7 +105,7 @@ const pinsData = [
         id: 11,
         title: "Egyptian Camel Ride",
         description: "Experience the thrill of riding a camel through the stunning landscapes of Egypt.",
-        link: "",
+        link: "https://egypttoursgroup.com/camel-ride-egypt-tours-group/",
         board: "Travel",
         image: camel
     },
@@ -121,15 +121,15 @@ const pinsData = [
         id: 13,
         title: "Charcuterie Board",
         description: "A delightful assortment of cured meats, cheeses, and accompaniments for a sophisticated appetizer.",
-        link: "",
+        link: "https://picky-palate.com/make-the-perfect-charcuterie-board/",
         board: "Recipes",
         image: charcuterieBoard
     },
     {
         id: 14,
-        title: "Ziplining",
+        title: "Ziplining in Costa Rica",
         description: "Experience the thrill of ziplining through the lush forests of Costa Rica.",
-        link: "",
+        link: "https://www.adventuresbydisney.com/destinations/central-south-america/costa-rica-vacations/",
         board: "Travel",
         image: ziplining
     },
@@ -145,7 +145,7 @@ const pinsData = [
         id:16,
         title: "Running",
         description: "Discover the benefits of running and how it can improve your physical and mental health.",
-        link: "",
+        link: "https://www.fleetfeet.com/how-to-start-running",
         board: "Wellness/Lifestyle",
         image: running
     },
@@ -153,7 +153,7 @@ const pinsData = [
         id:17,
         title: "Wellness Collage",
         description: "A collection of wellness tips and tricks to help you live your best life.",
-        link: "",
+        link: "https://lovelifebefit.com/wellness-tips/",
         board: "Wellness/Lifestyle",
         image: wellnessCollage
     },
@@ -169,7 +169,7 @@ const pinsData = [
         id: 19,
         title: "Yoga on the Water",
         description: "Find tranquility and balance with yoga sessions held near serene bodies of water, offering a peaceful escape from the hustle and bustle of daily life.",
-        link: "",
+        link: "https://www.yogajournal.com/",
         board: "Wellness/Lifestyle",
         image: yoga
     },
@@ -177,7 +177,7 @@ const pinsData = [
         id: 20,
         title: "Evil Elena",
         description: "A captivating portrait of Evil Elena, showcasing her enigmatic allure and dark charisma.",
-        link: "",
+        link: "https://www.linkedin.com/in/elena-lucci-78505528a",
         board: "Art",
         image: evilElena
     }
